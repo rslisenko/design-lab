@@ -201,8 +201,9 @@ textarea {
 }
 .ba-portfolio__item {
 	position: relative;
-	flex-basis: 28%;
-	margin-bottom: 1%;
+	flex-basis: 28.5%;
+	// margin-bottom: 1%;
+	margin-bottom: 10px;
 }
 .ba-portfolio__item img{
 	display: block;
@@ -219,7 +220,7 @@ textarea {
 	letter-spacing: 0.16em;
 }
 .ba-width-41 {
-	flex-basis: 41%;
+	flex-basis: 41.5%;
 }
 .ba-pad-bot-90 {
 	padding-bottom: 90px;
