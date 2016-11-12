@@ -203,7 +203,7 @@ textarea {
 }
 .ba-portfolio__item {
 	position: relative;
-	flex-basis: 28.5%;
+	flex-basis: 29%;
 	padding: 10px 0 0 10px;
 }
 .ba-portfolio__item img{
@@ -219,8 +219,8 @@ textarea {
 	color: #FFF;
 	text-transform: uppercase;
 }
-.ba-width-41 {
-	flex-basis: 41.5%;
+.ba-width-42 {
+	flex-basis: 42%;
 }
 .ba-pad-bot-90 {
 	padding-bottom: 90px;
