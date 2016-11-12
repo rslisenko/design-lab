@@ -11,7 +11,10 @@ a {
 	text-decoration: none;
 	color: #3C3C3C;
 }
-
+h1,h2,h3,h4 {
+	font-weight: bold;
+	letter-spacing: 0.16em;
+}
 a,
 input[type="submit"],
 input[type="button"],
@@ -84,7 +87,6 @@ textarea {
 	margin-bottom: 0;
 	line-height: 1.2;
 	padding: 0 0px;
-	letter-spacing: 0.16em;
 	text-transform: uppercase;
 }
 .ba-header__subtitle {
@@ -94,7 +96,6 @@ textarea {
 	text-transform: uppercase;
 	line-height: 2.5;
 	margin-top: 33px;
-	letter-spacing: 0.06em;
 	word-spacing: .07em;
 	line-height: 2;
 }
@@ -155,7 +156,6 @@ textarea {
 	text-transform: uppercase;
 	font-size: 34px;
 	font-weight: 700;
-	letter-spacing: 0.16em;
 	margin: 0;
 	margin-bottom: 30px;
 }
@@ -176,7 +176,6 @@ textarea {
 .ba-article-title {
 	font-size: 20px;
 	font-weight: 700;
-	letter-spacing: 0.16em;
 	margin-top: 30px;
 	text-transform: uppercase;
 }
@@ -203,7 +202,6 @@ textarea {
 .ba-portfolio__item {
 	position: relative;
 	flex-basis: 28.5%;
-	// margin-bottom: 1%;
 	margin-bottom: 10px;
 }
 .ba-portfolio__item img{
@@ -218,7 +216,6 @@ textarea {
 	font-weight: 700;
 	color: #FFF;
 	text-transform: uppercase;
-	letter-spacing: 0.16em;
 }
 .ba-width-41 {
 	flex-basis: 41.5%;
@@ -243,7 +240,6 @@ textarea {
 	font-size: 16px;
 	text-transform: uppercase;
 	margin-bottom: 20px;
-	letter-spacing: 0.16em;
 }
 .ba-contact-btn:hover {
 	border: 1px solid #3c3c3c;
